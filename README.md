@@ -5,7 +5,7 @@
 - 👯 Here is my project list:
 - TOJAM 2024 [Infinite Raccoon Theorem](https://itch.io/jam/tojam-2024/rate/2704859)
 - Web API Hackathon [StarWarQuizGame](https://github.com/JenniferZhan0415/StarWarQuizGame)
-
+- Web API Indepent Develop [PokemonBattleGame](https://github.com/JenniferZhan0415/PokemonBattleGame)
 ---
 
 > 😄 Pronouns: She/Her

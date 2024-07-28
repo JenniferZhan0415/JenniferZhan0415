@@ -2,10 +2,13 @@
 
 - 🔭 8 years marketer transitioning to Software Engineering 
 - 🌱 I’m currently learning Software Engineering at BrainStation's Bootcamp
-- 👯 Here is my project list:
-- TOJAM 2024 [Infinite Raccoon Theorem](https://itch.io/jam/tojam-2024/rate/2704859)
-- Web API Hackathon [StarWarQuizGame](https://github.com/JenniferZhan0415/StarWarQuizGame)
-- Web API Independent project [PokemonBattleGame](https://github.com/JenniferZhan0415/PokemonBattleGame)
+- 👯 Here is a list of my latest projects:
+
+  - Pair Programming project [OpenEditor](https://github.com/JenniferZhan0415/TextEditor)
+  - Web API Independent project [PokemonBattleGame](https://github.com/JenniferZhan0415/PokemonBattleGame)
+  - Web API Hackathon [StarWarQuizGame](https://github.com/JenniferZhan0415/StarWarQuizGame)
+  - TOJAM 2024 [Infinite Raccoon Theorem](https://itch.io/jam/tojam-2024/rate/2704859)
+
 ---
 
 > 😄 Pronouns: She/Her

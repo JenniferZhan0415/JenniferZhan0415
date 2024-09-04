@@ -26,8 +26,8 @@ Driven by a passion for innovation and problem-solving, I am transitioning to so
 
 ## Get in Touch 📮
 Feel free to connect with me:
-Email: jennifer.zhan.2015@gmail.com
-LinkedIn: www.linkedin.com/in/xuanyizhan
+- Email: jennifer.zhan.2015@gmail.com
+- LinkedIn: www.linkedin.com/in/xuanyizhan
 
 ## More About Me 
 

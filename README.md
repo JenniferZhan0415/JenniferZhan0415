@@ -5,6 +5,12 @@ I am a Full Stack Engineer with a passion for Content Creation and Enhancing Use
   
 Driven by a passion for innovation and problem-solving, I am transitioning to software engineering to integrate my creative skills with technical expertise. My background in advertising has equipped me with a keen understanding of user experience and project management, which I believe will be invaluable in my new field.
 
+## Get in Touch 📮
+Feel free to reach out: I’m eager to explore new opportunities and collaborations.
+- Email: jennifer.zhan.2015@gmail.com
+- LinkedIn: www.linkedin.com/in/xuanyizhan
+- GitHub: [github.com/JenniferZhan0415](https://github.com/JenniferZhan0415)
+
 ## Technologies & skills 🔧
 - Front-end Development: JavaScript, TypeScript, React, Next.js, Sass etc.
 - Back-end Development: Python, Node.js etc.
@@ -23,12 +29,6 @@ Driven by a passion for innovation and problem-solving, I am transitioning to so
 ## Achievements 🏆
 - BrainStation Diploma in Software Engineering
 - Responsive Web Design Developer Certification from freeCodeCamp
-
-## Get in Touch 📮
-Feel free to reach out: I’m eager to explore new opportunities and collaborations.
-- Email: jennifer.zhan.2015@gmail.com
-- LinkedIn: www.linkedin.com/in/xuanyizhan
-- GitHub: [github.com/JenniferZhan0415](https://github.com/JenniferZhan0415)
 
 ## More About Me 
 

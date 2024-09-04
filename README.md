@@ -28,6 +28,7 @@ Driven by a passion for innovation and problem-solving, I am transitioning to so
 Feel free to reach out: I’m eager to explore new opportunities and collaborations.
 - Email: jennifer.zhan.2015@gmail.com
 - LinkedIn: www.linkedin.com/in/xuanyizhan
+- GitHub: github.com/JenniferZhan0415
 
 ## More About Me 
 

@@ -6,12 +6,12 @@ I am a Full Stack Engineer with a passion for Content Creation and Enhancing Use
 Driven by a passion for innovation and problem-solving, I am transitioning to software engineering to integrate my creative skills with technical expertise. My background in advertising has equipped me with a keen understanding of user experience and project management, which I believe will be invaluable in my new field.
 
 ## Technologies & skills 🔧
-· Front-end Development: JavaScript, TypeScript, React, Next.js, Sass etc.
-· Back-end Development: Python, Node.js etc.
-· AI Prompt Engineering: Vercel AI SDK, Google Gemini, Open AI
-· Database Management: Knex, Drizzle, MySQL, PostgreSQL etc.
-· APIs & Authentication: JWT, HTTP Requests, Next Auth etc.
-· Security: bcrypt 
+- Front-end Development: JavaScript, TypeScript, React, Next.js, Sass etc.
+- Back-end Development: Python, Node.js etc.
+- AI Prompt Engineering: Vercel AI SDK, Google Gemini, Open AI
+- Database Management: Knex, Drizzle, MySQL, PostgreSQL etc.
+- APIs & Authentication: JWT, HTTP Requests, Next Auth etc.
+- Security: bcrypt 
 
 ## Featured Projects 🌟
   - Capstone project [filmTO](https://github.com/JenniferZhan0415/filmTO)

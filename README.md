@@ -25,7 +25,7 @@ Driven by a passion for innovation and problem-solving, I am transitioning to so
 - Responsive Web Design Developer Certification from freeCodeCamp
 
 ## Get in Touch 📮
-Feel free to connect with me:
+Feel free to reach out: I’m eager to explore new opportunities and collaborations.
 - Email: jennifer.zhan.2015@gmail.com
 - LinkedIn: www.linkedin.com/in/xuanyizhan
 

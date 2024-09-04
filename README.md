@@ -1,9 +1,10 @@
 ## Hi there 👋
 
 - 🔭 8 years marketer transitioning to Software Engineering 
-- 🌱 I’m currently learning Software Engineering at BrainStation's Bootcamp
+- 🌱 Currently graduated from BrainStation’s Software Engineering Bootcamp
 - 👯 Here is a list of my latest projects:
 
+  - Capstone project [filmTO](https://github.com/JenniferZhan0415/filmTO)
   - Pair Programming project [OpenEditor](https://github.com/JenniferZhan0415/TextEditor)
   - Web API Independent project [PokemonBattleGame](https://github.com/JenniferZhan0415/PokemonBattleGame)
   - Web API Hackathon [StarWarQuizGame](https://github.com/JenniferZhan0415/StarWarQuizGame)

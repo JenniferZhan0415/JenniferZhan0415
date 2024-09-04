@@ -21,8 +21,8 @@ Driven by a passion for innovation and problem-solving, I am transitioning to so
   - TOJAM 2024 [Infinite Raccoon Theorem](https://itch.io/jam/tojam-2024/rate/2704859)
 
 ## Achievements 🏆
-BrainStation Diploma in Software Engineering
-Responsive Web Design Developer Certification from freeCodeCamp
+- BrainStation Diploma in Software Engineering
+- Responsive Web Design Developer Certification from freeCodeCamp
 
 ## Get in Touch 📮
 Feel free to connect with me:

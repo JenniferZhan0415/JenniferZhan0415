@@ -28,6 +28,7 @@ Feel free to reach out: I’m eager to explore new opportunities and collaborati
 
 ## Achievements 🏆
 - BrainStation Diploma in Software Engineering
+- Scientific Computing with Python from freeCodeCamp
 - Responsive Web Design Developer Certification from freeCodeCamp
 
 ## More About Me 
